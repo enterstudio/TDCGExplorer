@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rake', '0.8.7'
-gem 'rails', '~> 2.3.5'
+gem 'rails', '~> 5.2.4', '>= 5.2.4.3'
 gem 'mysql'
 
 gem "will_paginate", "2.3.15"
