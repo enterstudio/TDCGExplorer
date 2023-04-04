@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'rake', '0.8.7'
-gem 'rails', '~> 2.3.5'
+gem 'rake', '12.3.3'
+gem 'rails', '~> 6.1.7', '>= 6.1.7.3'
 gem 'mysql'
 
-gem "will_paginate", "2.3.15"
+gem "will_paginate", "3.0.5"
 gem "locale"
 gem "locale_rails", "2.0.5"
 gem "gettext"
